@@ -4,7 +4,7 @@ I'm Huy, a developer 💻, photographer 📸, guitarist 🎸, cat lover 😹
 
 I'm focusing to React Native and fall in love with React Native. I really interested in creating animations, beautiful UI on mobile phone. So I decided to spend a lot of time on learning React, React Native and Typescript.
 
-Checkout my blog: https://huylv.substack.com
+Checkout my blog: [https://dev.to/huylv](https://dev.to/huylv)
 
 My portfolio: https://huy-lv.github.io
 
